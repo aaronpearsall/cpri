@@ -8,8 +8,8 @@ function Home() {
       <Navigation />
       <div className="hero">
         <div className="hero-content">
-          <h1>Credit & Political Risk Insurance</h1>
-          <p className="subtitle">Interactive Learning Resource</p>
+          <h1>Learn CPRI</h1>
+          <p className="subtitle">Credit & Political Risk Insurance</p>
           <p className="description">
             Master the fundamentals of credit and political risk insurance through 
             interactive lessons, real-world examples, and comprehensive quizzes.

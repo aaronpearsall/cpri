@@ -8,7 +8,7 @@ function Navigation() {
     <nav className="navbar">
       <div className="nav-container">
         <Link to="/" className="nav-logo">
-          🛡️ Risk Insurance Learning
+          🛡️ Learn CPRI
         </Link>
         <div className="nav-links">
           <Link 

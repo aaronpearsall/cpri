@@ -1,4 +1,4 @@
-# Credit & Political Risk Insurance Learning Platform
+# Learn CPRI
 
 An interactive web application for learning about credit and political risk insurance. This platform provides comprehensive lessons, interactive quizzes, and a detailed glossary to help users understand these important business insurance concepts.
 
@@ -56,7 +56,7 @@ npm run preview
 ## Project Structure
 
 ```
-credit-risk-insurance-learning/
+learn-cpri/
 ├── src/
 │   ├── components/          # React components
 │   │   ├── Home.jsx         # Homepage

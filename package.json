@@ -1,8 +1,8 @@
 {
-  "name": "credit-political-risk-insurance-learning",
+  "name": "learn-cpri",
   "version": "1.0.0",
   "type": "module",
-  "description": "Interactive learning resource for credit and political risk insurance",
+  "description": "Learn CPRI - Interactive learning resource for credit and political risk insurance",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
